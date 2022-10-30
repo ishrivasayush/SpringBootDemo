@@ -11,3 +11,7 @@ public class SpringbootTutoialApplication {
 	}
 
 }
+/*
+Run the Spring-boot Application form terminal
+mvn spring-boot:run
+ */
